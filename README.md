@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Erik
-- 🌱  I’m currently learning Python and C.
+- 🌱  Python, Java and SQL
 - 📫 Email me at: erik.christian.berns@gmail.com
