@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Erik
-- 🌱  Python, Java, SQL and NoSQL.
+- 🌱  Python, Java, SQL, NoSQL, Node.js, React.
 - 📫 Email me at: erik.christian.berns@gmail.com
